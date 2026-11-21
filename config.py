@@ -10,7 +10,7 @@ means editing this file only.
 # --- Period ---
 START_DATE = "2016-01-01"        # US crude export ban lifted Dec 2015 - trade not possible before
 
-# Days excluded as unrealistic for a physical trade (see notes.md)
+# Days excluded as unrealistic for a physical trade
 EXCLUDE_DATES = ["2020-04-20"]   # WTI -$37: one-day Cushing storage squeeze at futures expiry
 
 # --- Cargo ---
